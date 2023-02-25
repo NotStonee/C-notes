@@ -1,4 +1,4 @@
-using System;
+      using System;
 /* int - stores integers (whole numbers), without decimals, such as 123 or -123 same as long but holds less info
 double - stores floating point numbers, with decimals, such as 19.99 or -19.99 same as float but holds less info
 char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
@@ -55,4 +55,4 @@ class Program {
     string user = Console.ReadLine();
     Console.WriteLine ("You said " + user);
   }
-}
+} 
